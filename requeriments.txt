@@ -1,0 +1,4 @@
+# Para extração de PDFs
+pdfminer.six==20231228
+
+pandas==2.2.2
